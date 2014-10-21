@@ -6,7 +6,7 @@
  * Time: 11:50 PM
  */
 
-namespace lib\Chess\Board;
+namespace Chess\Board;
 
 
 class Board {

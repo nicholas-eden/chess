@@ -6,10 +6,10 @@
  * Time: 11:37 PM
  */
 
-namespace lib\Chess\Piece;
+namespace Chess\Piece;
 
 
-use lib\Chess\Board\Location;
+use Chess\Board\Location;
 
 abstract class Piece {
 

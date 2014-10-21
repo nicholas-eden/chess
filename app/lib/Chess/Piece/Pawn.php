@@ -6,7 +6,7 @@
  * Time: 11:41 PM
  */
 
-namespace lib\Chess\Piece;
+namespace Chess\Piece;
 
 
 class Pawn extends Piece {
